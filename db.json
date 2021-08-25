@@ -1,0 +1,14 @@
+{
+  "todoItems": [
+    {
+      "text": "Задание 1",
+      "checked": true,
+      "id": 0
+    },
+    {
+      "id": 1,
+      "text": "Задание 2",
+      "checked": false
+    }
+  ]
+}
